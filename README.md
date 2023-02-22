@@ -1,4 +1,4 @@
-# TP IA Symbolique
+# IA Symbolique
 
 
 ## Get started
